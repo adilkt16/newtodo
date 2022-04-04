@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/newtodo/static/css/main.073c9b0a.css",
+    "main.js": "/newtodo/static/js/main.69f4d745.js",
+    "static/js/787.4fb5da98.chunk.js": "/newtodo/static/js/787.4fb5da98.chunk.js",
+    "static/media/delete.svg": "/newtodo/static/media/delete.7c228be695c11f912732b47784104350.svg",
+    "static/media/revert.svg": "/newtodo/static/media/revert.74d214422cba601d0914891eccdbe4ef.svg",
+    "index.html": "/newtodo/index.html",
+    "static/media/plus.svg": "/newtodo/static/media/plus.19bbb341fb5456e964a1569924f69873.svg",
+    "static/media/tick-green.svg": "/newtodo/static/media/tick-green.b01db653d28ca6c03db027cb8c88498d.svg",
+    "main.073c9b0a.css.map": "/newtodo/static/css/main.073c9b0a.css.map",
+    "main.69f4d745.js.map": "/newtodo/static/js/main.69f4d745.js.map",
+    "787.4fb5da98.chunk.js.map": "/newtodo/static/js/787.4fb5da98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.69f4d745.js"
+  ]
+}
